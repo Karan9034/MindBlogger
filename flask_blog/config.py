@@ -1,5 +1,3 @@
-import os
-
 
 class Config:
     SECRET_KEY = "18256fdc199f95f0cdac2b6ddbae9214"
